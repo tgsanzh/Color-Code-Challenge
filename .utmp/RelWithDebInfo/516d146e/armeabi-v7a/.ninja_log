@@ -1,0 +1,21 @@
+# ninja log v5
+191	975	7359841700041351	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	22ab240c8738d3bc
+4	2146	7359841716487215	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ae0df6e6a62cc17d
+975	1488	7359841709817087	C:/Users/m/Color Code Challenge/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/516d146e/obj/armeabi-v7a/libswappywrapper.so	bc83b8b20ef06fe
+103	1881	7359841711057134	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ddfb82db7420f1f5
+44	1716	7359841711072281	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6ecde265717b8320
+32	1907	7359841714294313	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bfbc6d8d8990373b
+170	1874	7359841711947223	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	798e7f879665dc5c
+87	1726	7359841712656975	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	737b1711c92f11a4
+71	1931	7359841715464323	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	42bb303c53a7e658
+2146	2528	7359841721023342	C:/Users/m/Color Code Challenge/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/516d146e/obj/armeabi-v7a/libgame.so	6990d0595a8c86d1
+172	267	7360017910855421	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	22ab240c8738d3bc
+268	501	7360017912793220	C:/Users/m/Color Code Challenge/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/516d146e/obj/armeabi-v7a/libswappywrapper.so	bc83b8b20ef06fe
+135	595	7360017914034932	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ddfb82db7420f1f5
+13	598	7360017914044901	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6ecde265717b8320
+150	661	7360017914600563	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	798e7f879665dc5c
+164	675	7360017914650646	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	737b1711c92f11a4
+10	736	7360017915454897	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bfbc6d8d8990373b
+122	818	7360017916112117	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	42bb303c53a7e658
+6	973	7360017917172204	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ae0df6e6a62cc17d
+973	1095	7360017918791511	C:/Users/m/Color Code Challenge/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/516d146e/obj/armeabi-v7a/libgame.so	6990d0595a8c86d1
